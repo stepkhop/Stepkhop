@@ -24,7 +24,7 @@ $$
 
 **Стек:** Python, PyTorch, NumPy
 
-🔗 Репозиторий:
+🔗 Репозиторий: [Solving-the-problem-on-SMILE](https://github.com/stepkhop/Solving-the-problem-on-SMILE)
 
 ---
 
