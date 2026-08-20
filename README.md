@@ -203,7 +203,7 @@ Unity, Blender (3D-моделирование), UniSim Design, VR (Oculus, HTC V
 
 Python, Pandas, SQLite, requests, PyYAML, парсинг PDF/HTML/XLSX-отчётов
 
-🔗 Репозиторий: пока не доступен
+🔗 Репозиторий: [skolkovo-pulsAI](https://github.com/stepkhop/skolkovo-pulsAI)
 
 ---
 
